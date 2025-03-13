@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/karthiswaran_portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/karthiswaran_portfolio/static/js/main.a473d47a.js",
+    "static/media/avatar.png": "/karthiswaran_portfolio/static/media/avatar.21d3273854db64112797.png",
+    "index.html": "/karthiswaran_portfolio/index.html",
+    "main.bf538fe7.css.map": "/karthiswaran_portfolio/static/css/main.bf538fe7.css.map",
+    "main.a473d47a.js.map": "/karthiswaran_portfolio/static/js/main.a473d47a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.a473d47a.js"
+  ]
+}
